@@ -20,8 +20,8 @@ const AdminNav=()=>{
             <Link to='/' style={{textDecoration: 'none', color:"white", margin:'0.5rem'}}>Home</Link>
             <Link to='/addjobs' style={{textDecoration: 'none', color:"white", margin:'0.5rem'}}>Add Jobs</Link>
             <Link to='/myjobs' style={{textDecoration: 'none', color:"white", margin:'0.5rem'}}>My Jobs</Link>
-            <Link to='/employees' style={{textDecoration: 'none', color:"white", margin:'0.5rem'}}>Employees</Link>
-            <Link to='/profile' style={{textDecoration: 'none', color:"white", margin:'0.5rem'}}>Profile</Link>
+            <Link to='/Applicants' style={{textDecoration: 'none', color:"white", margin:'0.5rem'}}>View Job Applicants</Link>
+            <Link to='/profile' style={{textDecoration: 'none', color:"white", margin:'0.5rem'}}>Edit Profile</Link>
             {/* <NavDropdown title="Link" id="navbarScrollingDropdown">
               <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action4">
